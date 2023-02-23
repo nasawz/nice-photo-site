@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="144px" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="favicon" fill-rule="nonzero">
+            <g id="logo" transform="translate(18.000000, 27.000000)">
+                <path d="M31.1132658,1.13686838e-13 L31.1132658,67.1515373 L76,67.1515373 L76,89 L0,89 L0,37.7305995 C0,18.9193317 13.4141156,3.27069336 31.1132658,1.13686838e-13 Z" id="Combined-Shape" fill="#0480D5"></path>
+                <path d="M103.937266,64.4695291 L44.2752159,64.4695291 L44.2752159,25.0235457 C44.2752159,8.54832557 57.6310206,-4.80747922 74.1062408,-4.80747922 C90.581461,-4.80747922 103.937266,8.54832557 103.937266,25.0235457 L103.937266,64.4695291 Z" id="Combined-Shape" fill="#31C2B2" transform="translate(74.106241, 29.831025) rotate(90.000000) translate(-74.106241, -29.831025) "></path>
+                <path d="M39,1.13686838e-13 C59.600368,0.970623639 76,17.7422798 76,38.2897439 L76,60 L39,60 L39,1.13686838e-13 L39,1.13686838e-13 Z" id="Combined-Shape" fill="#353843"></path>
+            </g>
+        </g>
+    </g>
+</svg>

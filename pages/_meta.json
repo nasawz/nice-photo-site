@@ -1,0 +1,39 @@
+{
+    "index": {
+      "type": "page",
+      "title": "NicePhoto",
+      "display": "hidden",
+      "theme": {
+        "layout": "raw"
+      }
+    },
+    "register": {
+      "type": "page",
+      "title": "Register",
+      "display": "hidden",
+      "theme": {
+        "layout": "raw",
+        "footer": false,
+        "navbar":false
+      }
+    },
+    "docs": {
+      "type": "page",
+      "title": "文档"
+    },
+    "showcase": {
+      "type": "page",
+      "title": "案例展示",
+      "theme": {
+        "typesetting": "article",
+        "layout": "full"
+      }
+    },
+    "about": {
+      "type": "page",
+      "title": "关于",
+      "theme": {
+        "typesetting": "article"
+      }
+    }
+  }
