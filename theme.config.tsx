@@ -6,8 +6,8 @@ import XUser from '@components/xuser';
 const logo = (
     <span>
         <svg height="20" viewBox="0 0 211 34" version="1.1" xmlns="http://www.w3.org/2000/svg" >
-            <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                <g id="编组" transform="translate(0.000000, -0.000000)" fill-rule="nonzero">
+            <g id="页面-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+                <g id="编组" transform="translate(0.000000, -0.000000)" fillRule="nonzero">
                     <path d="M11.8721672,5.68434189e-14 L11.8721672,25.6533963 L29,25.6533963 L29,34 L0,34 L0,14.4139369 C0,7.22760985 5.11854412,1.24947836 11.8721672,5.68434189e-14 Z" id="Combined-Shape" fill="#0480D5"></path>
                     <path d="M39.7063712,24.6288089 L16.9141274,24.6288089 L16.9141274,9.55955679 C16.9141274,3.26565247 22.016345,-1.8365651 28.3102493,-1.8365651 C34.6041537,-1.8365651 39.7063712,3.26565247 39.7063712,9.55955679 L39.7063712,24.6288089 Z" id="Combined-Shape" fill="#31C2B2" transform="translate(28.310249, 11.396122) rotate(90.000000) translate(-28.310249, -11.396122) "></path>
                     <path d="M15,5.68434189e-14 C22.7947338,0.372072395 29,6.80120724 29,14.6777352 L29,23 L15,23 L15,5.68434189e-14 L15,5.68434189e-14 Z" id="Combined-Shape" fill="#353843"></path>
@@ -126,7 +126,7 @@ const config: DocsThemeConfig = {
         // component: Navigation,
         extraContent: (
             <>
-            <a className="inline-flex items-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-3" href="https://nice-photo-manage.xiangshi.app/" target={'_blank'}>控制台<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" className="hidden w-4 h-4 ml-1 xl:inline"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg></a>
+            <a className="inline-flex items-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-3" href="https://nice-photo-manage.xiangshi.app/" target={'_blank'}>控制台<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" aria-hidden="true" className="hidden w-4 h-4 ml-1 xl:inline"><path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg></a>
                 {/* <XUser /> */}
             </>
         ),

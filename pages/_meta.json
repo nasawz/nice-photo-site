@@ -35,5 +35,21 @@
       "theme": {
         "typesetting": "article"
       }
+    },
+    "agreement": {
+      "type": "page",
+      "title": "用户协议",
+      "display": "hidden",
+      "theme": {
+        "typesetting": "article"
+      }
+    },
+    "terms-and-conditions": {
+      "type": "page",
+      "title": "条款和条件",
+      "display": "hidden",
+      "theme": {
+        "typesetting": "article"
+      }
     }
   }
