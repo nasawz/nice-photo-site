@@ -9,7 +9,7 @@
     },
     "register": {
       "type": "page",
-      "title": "Register",
+      "title": "用户注册",
       "display": "hidden",
       "theme": {
         "layout": "raw",
