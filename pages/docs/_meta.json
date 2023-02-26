@@ -1,13 +1,7 @@
 {
     "index": "介绍",
     "guide": "使用手册",
-    "-- 特效": {
-      "type": "separator",
-      "title": "特效"
-    },
-    "docs-theme": "",
-    "blog-theme": "",
-    "custom-theme": "",
+    "separator": "特效",
     "-- 更多": {
       "type": "separator",
       "title": "更多"

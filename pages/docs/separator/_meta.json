@@ -1,0 +1,37 @@
+{
+  "carousel": {
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "slider": {
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "masonry": {
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "grid": {
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "adjusted": {
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "bricks": {
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "justified": {
+    "theme": {
+      "layout": "full"
+    }
+  }
+}

@@ -94,6 +94,9 @@ const config: DocsThemeConfig = {
             </>
         )
     },
+    toc: {
+        title: "目录"
+    },
     // banner: {
     //   key: '2.0-release',
     //   text: (
@@ -126,7 +129,7 @@ const config: DocsThemeConfig = {
         // component: Navigation,
         extraContent: (
             <>
-            <a className="inline-flex items-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-3" href="https://nice-photo-manage.xiangshi.app/" target={'_blank'}>控制台<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" aria-hidden="true" className="hidden w-4 h-4 ml-1 xl:inline"><path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg></a>
+                <a className="inline-flex items-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ml-3" href="https://nice-photo-manage.xiangshi.app/" target={'_blank'}>控制台<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" aria-hidden="true" className="hidden w-4 h-4 ml-1 xl:inline"><path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg></a>
                 {/* <XUser /> */}
             </>
         ),
