@@ -6,7 +6,7 @@ export interface IContentSectionProps {
 export default function ContentSection(props: IContentSectionProps) {
     return (
         <>
-            {/* <section className="bg-white dark:bg-gray-900">
+            {/* <section className="bg-white dark:nx-bg-neutral-900">
                 <div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
                     <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                         <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">轻松打造属于你的创意空间</h2>
@@ -19,7 +19,7 @@ export default function ContentSection(props: IContentSectionProps) {
                     </div>
                 </div>
             </section> */}
-            <div className="relative overflow-hidden bg-white dark:bg-gray-900 pt-16 pb-32">
+            <div className="relative overflow-hidden bg-white dark:nx-bg-neutral-900 pt-16 pb-32">
                 <div className="relative">
                     <div className="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-flow-col-dense lg:grid-cols-2 lg:gap-24 lg:px-8">
                         <div className="mx-auto max-w-xl px-4 sm:px-6 lg:mx-0 lg:max-w-none lg:py-16 lg:px-0">

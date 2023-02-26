@@ -5,7 +5,7 @@ export interface IPricingSectionProps {
 
 export default function PricingSection(props: IPricingSectionProps) {
     return (
-        <section className="bg-white dark:bg-gray-900">
+        <section className="bg-white dark:nx-bg-neutral-900">
             <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                 <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">服务价格</h2>
@@ -13,7 +13,7 @@ export default function PricingSection(props: IPricingSectionProps) {
                 </div>
                 <div className="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
 
-                    <div className="min-w-full flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
+                    <div className="min-w-full flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-neutral-600 xl:p-8 dark:bg-neutral-800 dark:text-white">
                         <h3 className="mb-4 text-2xl font-semibold">免费版</h3>
                         <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400 h-16">拥有基本的功能，适合个人使用。</p>
                         <div className="flex justify-center items-baseline my-8">
@@ -71,7 +71,7 @@ export default function PricingSection(props: IPricingSectionProps) {
                         <a href="/register" className="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">立即开通</a>
                     </div>
 
-                    <div className="min-w-full flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
+                    <div className="min-w-full flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-neutral-600 xl:p-8 dark:bg-neutral-800 dark:text-white">
                         <h3 className="mb-4 text-2xl font-semibold">高级版</h3>
                         <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400 h-16">提供更多高级功能，适合中型团队或个人专业摄影师使用。</p>
                         <div className="flex justify-center items-baseline my-8">
@@ -116,7 +116,7 @@ export default function PricingSection(props: IPricingSectionProps) {
                         <a href="/register" className="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">立即开通</a>
                     </div>
 
-                    <div className="min-w-full flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
+                    <div className="min-w-full flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-neutral-600 xl:p-8 dark:bg-neutral-800 dark:text-white">
                         <h3 className="mb-4 text-2xl font-semibold">专业版</h3>
                         <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">拥有最完整的功能，独立部署到您的服务器上.</p>
                         <div className="flex justify-center items-baseline my-8">
