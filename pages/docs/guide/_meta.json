@@ -1,3 +1,11 @@
 {
-  "quickstart": "快速开始"
+  "quickstart": "快速开始",
+  "dashboard": "系统概览",
+  "project": "专辑管理",
+  "album": "相册管理",
+  "home": "首页特效",
+  "feedback": "销售线索",
+  "about": "介绍信息",
+  "service": "套系价格",
+  "setting": "系统设置"
 }
