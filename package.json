@@ -47,8 +47,10 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.43.2",
+    "react-player": "^2.11.2",
     "tailwind-merge": "^1.9.1",
-    "tailwindcss-animate": "^1.0.5"
+    "tailwindcss-animate": "^1.0.5",
+    "video-react": "^0.16.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
