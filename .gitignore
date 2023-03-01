@@ -35,3 +35,5 @@ yarn-error.log*
 .contentlayer
 .env
 public/showcase/turbo.jpg
+
+video
