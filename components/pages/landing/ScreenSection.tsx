@@ -17,7 +17,7 @@ export default function ScreenSection (props: IScreenSectionProps) {
         <div className="mt-12 mb-10">
             <img
                 className="rounded-lg shadow-xl ring-1 ring-black ring-opacity-5"
-                src="/home/dashboard.jpg"
+                src="https://nice-photo-1256312109.cos.ap-shanghai.myqcloud.com/site/dashboard.jpg"
                 alt=""
             />
         </div>

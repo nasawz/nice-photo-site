@@ -52,7 +52,7 @@ export default function ContentSection(props: IContentSectionProps) {
                                             <div className="flex-shrink-0">
                                                 <img
                                                     className="h-6 w-6 rounded-full"
-                                                    src="/face/Emily.jpg"
+                                                    src="https://nice-photo-1256312109.cos.ap-shanghai.myqcloud.com/site/face/Emily.jpg"
                                                     alt=""
                                                 />
                                             </div>
@@ -66,7 +66,7 @@ export default function ContentSection(props: IContentSectionProps) {
                             <div className="-mr-48 pl-4 sm:pl-6 md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                                 <img
                                     className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                                    src="/home/portal.jpg"
+                                    src="https://nice-photo-1256312109.cos.ap-shanghai.myqcloud.com/site/portal.jpg"
                                     alt="Inbox user interface"
                                 />
                             </div>
@@ -105,7 +105,7 @@ export default function ContentSection(props: IContentSectionProps) {
                                             <div className="flex-shrink-0">
                                                 <img
                                                     className="h-6 w-6 rounded-full"
-                                                    src="/face/Olivia.jpg"
+                                                    src="https://nice-photo-1256312109.cos.ap-shanghai.myqcloud.com/site/face/Olivia.jpg"
                                                     alt=""
                                                 />
                                             </div>
@@ -119,7 +119,7 @@ export default function ContentSection(props: IContentSectionProps) {
                             <div className="-ml-48 pr-4 sm:pr-6 md:-ml-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                                 <img
                                     className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
-                                    src="/home/coffee.jpg"
+                                    src="https://nice-photo-1256312109.cos.ap-shanghai.myqcloud.com/site/coffee.jpg"
                                     alt="Customer profile user interface"
                                 />
                             </div>

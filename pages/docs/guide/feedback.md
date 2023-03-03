@@ -1,5 +1,7 @@
 销售线索模块会展示所有在网站上给您留言咨询的信息。
 
+![76shots_so](https://nice-photo-1256312109.cos.ap-shanghai.myqcloud.com/site/4shots_so.png)
+
 后台界面上会有明显的未读提示，让您可以清晰地了解哪些信息尚未被查看过。
 
 该模块还提供接入飞书APP提醒的能力，方便您及时跟进销售线索的动态。
