@@ -48,7 +48,7 @@ const config: DocsThemeConfig = {
     project: {
         link: 'https://github.com/nasawz/nice-photo-site'
     },
-    docsRepositoryBase: 'https://github.com/nasawz/nice-photo-site/tree/master/pages/docs',
+    docsRepositoryBase: 'https://github.com/nasawz/nice-photo-site/tree/master',
     useNextSeoProps() {
         const { asPath } = useRouter()
         const { frontMatter } = useConfig();
