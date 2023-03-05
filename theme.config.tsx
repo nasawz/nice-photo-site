@@ -45,10 +45,10 @@ const logo = (
 
 
 const config: DocsThemeConfig = {
-    //   project: {
-    //     link: 'https://github.com/shuding/nextra'
-    //   },
-    //   docsRepositoryBase: 'https://github.com/shuding/nextra/tree/main/docs',
+    project: {
+        link: 'https://github.com/nasawz/nice-photo-site'
+    },
+    docsRepositoryBase: 'https://github.com/nasawz/nice-photo-site/tree/master/pages/docs',
     useNextSeoProps() {
         const { asPath } = useRouter()
         const { frontMatter } = useConfig();
@@ -106,10 +106,10 @@ const config: DocsThemeConfig = {
     //   )
     // },
     editLink: {
-        // text: 'Edit this page on GitHub →'
-        component: () => {
-            return null
-        }
+        text: 'Edit this page on GitHub →'
+        // component: () => {
+        //     return null
+        // }
     },
     feedback: {
         content: '',
