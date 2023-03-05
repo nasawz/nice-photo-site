@@ -20,7 +20,7 @@ export default function LandingPage() {
             <ContentSection />
             <FeatureSection />
             <ScreenSection />
-            {/* <PricingSection /> */}
+            <PricingSection />
         </>
     );
 
