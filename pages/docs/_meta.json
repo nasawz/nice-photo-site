@@ -1,18 +1,19 @@
 {
-    "index": "介绍",
-    "guide": "使用手册",
-    "separator": "特效",
-    "-- 更多": {
-      "type": "separator",
-      "title": "更多"
-    },
-    "about-link": {
-      "title": "关于",
-      "href": "/about"
-    },
-    "next.js-link": {
-      "title": "享咖小记 ↗",
-      "href": "https://coffee-note.xiangshi.app/",
-      "newWindow": true
-    }
+  "index": "介绍",
+  "guide": "使用手册",
+  "separator": "特效",
+  "premium": "服务价格",
+  "-- 更多": {
+    "type": "separator",
+    "title": "更多"
+  },
+  "about-link": {
+    "title": "关于",
+    "href": "/about"
+  },
+  "next.js-link": {
+    "title": "享咖小记 ↗",
+    "href": "https://coffee-note.xiangshi.app/",
+    "newWindow": true
   }
+}
